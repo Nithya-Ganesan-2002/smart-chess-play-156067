@@ -1,0 +1,1 @@
+ /home/kavia/workspace/code-generation/smart-chess-play-156067/chess_mobile_frontend/.dart_tool/flutter_build/781553dc40a14957edc4b92636551491/native_assets.json: 

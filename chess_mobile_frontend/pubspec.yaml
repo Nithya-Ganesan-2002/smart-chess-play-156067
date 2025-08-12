@@ -30,6 +30,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  # Local persistence (may be used later for saving games)
   sqflite: ^2.3.2
   path: ^1.9.0
   flutter_dotenv: ^5.1.0
@@ -38,6 +39,8 @@ dependencies:
   shared_preferences: ^2.2.2
   intl: ^0.19.0
   cupertino_icons: ^1.0.8
+  # Chess rules and validation engine
+  chess: ^0.8.1
 
 dev_dependencies:
   flutter_test:
